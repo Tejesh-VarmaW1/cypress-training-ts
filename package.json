@@ -1,0 +1,28 @@
+{
+  "name": "cypress-training-ts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tejesh-VarmaW1/cypress-training-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tejesh-VarmaW1/cypress-training-ts/issues"
+  },
+  "homepage": "https://github.com/Tejesh-VarmaW1/cypress-training-ts#readme",
+  "dependencies": {
+    "init": "^0.1.2",
+    "cypress": "^12.8.1",
+    "typescript": "^5.0.2"
+  },
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "typescript": "^5.0.2"
+  }
+}
